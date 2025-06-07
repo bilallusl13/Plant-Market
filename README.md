@@ -52,33 +52,33 @@ After starting the project, you can access the application by visiting `http://l
 
 ### Screenshots
 
-![Homepage](Plant/plantproject/src/readmephotos/Screenshot%20(1).png)
+![Homepage](./Plant/plantproject/src/readmephotos/Screenshot%20(1).png)
 *Homepage of the application*
 
-![Plant Details](Plant/plantproject/src/readmephotos/Screenshot%20(2).png)
+![Plant Details](./Plant/plantproject/src/readmephotos/Screenshot%20(2).png)
 *Detailed view of plant information*
 
-![User Dashboard](Plant/plantproject/src/readmephotos/Screenshot%20(3).png)
+![User Dashboard](./Plant/plantproject/src/readmephotos/Screenshot%20(3).png)
 *User dashboard interface*
 
-![Plant Management](Plant/plantproject/src/readmephotos/Screenshot%20(4).png)
+![Plant Management](./Plant/plantproject/src/readmephotos/Screenshot%20(4).png)
 *Plant management section*
 
-![Search Interface](Plant/plantproject/src/readmephotos/Screenshot%20(5).png)
+![Search Interface](./Plant/plantproject/src/readmephotos/Screenshot%20(5).png)
 *Search functionality*
 
-![Plant Categories](Plant/plantproject/src/readmephotos/Screenshot%20(6).png)
+![Plant Categories](./Plant/plantproject/src/readmephotos/Screenshot%20(6).png)
 *Plant categories view*
 
-![User Profile](Plant/plantproject/src/readmephotos/Screenshot%20(7).png)
+![User Profile](./Plant/plantproject/src/readmephotos/Screenshot%20(7).png)
 *User profile section*
 
-![Settings](Plant/plantproject/src/readmephotos/Screenshot%20(8).png)
+![Settings](./Plant/plantproject/src/readmephotos/Screenshot%20(8).png)
 *Application settings*
 
 ### Demo Video
 
-[Watch the demo video](Plant/plantproject/src/readmephotos/readmevideo1%20-%20Made%20with%20Clipchamp.mp4)
+[Watch the demo video](./Plant/plantproject/src/readmephotos/readmevideo1%20-%20Made%20with%20Clipchamp.mp4)
 
 ## 👥 Contributing
 
