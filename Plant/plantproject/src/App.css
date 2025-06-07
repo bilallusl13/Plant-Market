@@ -1,0 +1,7 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+body{
+  background-color: rgb(5, 65, 5);
+}
