@@ -92,12 +92,9 @@ After starting the project, you can access the application by visiting `http://l
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## 📞 Contact
-
-[Add your contact information here]
 
 ---
-Developed by: [Your Name]
+Developed by: Bilal Habeş Uslu
 
 ## 📸 Media Credits
 
